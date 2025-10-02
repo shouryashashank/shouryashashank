@@ -4,11 +4,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shouryashashank&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shouryashashank&theme=transparent&hide_border=false)<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=shouryashashank)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shouryashashank&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shouryashashank&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=shouryashashank)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shouryashashank&icon=0&color=0)](https://visitcount.itsvg.in)
